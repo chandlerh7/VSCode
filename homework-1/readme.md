@@ -4,7 +4,8 @@
 
 hi
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences. 
+Websites are sites where viewers can learn new material. The goal is for it to be informational and resourceful.
 
 ### VS Code & Extensions
 
