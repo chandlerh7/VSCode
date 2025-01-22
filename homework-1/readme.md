@@ -2,10 +2,9 @@
 
 ### Websites vs Web Applications
 
-hi
+Websites are typically informational and expected to be browsed by the viewer(s). Also, they are supposed to be simple and easy for users to engage with. On the otherhand, web applications focus on personalized experiences and interactions. Examples of websites are BBC News and IUI website. Examples of web apps are Google Docs and Temu.
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences. 
-Websites are sites where viewers can learn new material. The goal is for it to be informational and resourceful.
+
 
 ### VS Code & Extensions
 
