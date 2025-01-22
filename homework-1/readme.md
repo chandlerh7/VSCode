@@ -12,7 +12,7 @@ VS Code stands for Visual Studio Code and in order for it to properly work, you 
 
 ### Version Control, Git, & GitHub
 
-In order to get Git, you have to install Git and signup a GitHub account. The installation process for Windows users and Mac Users is different, sometimes Mac Users will have to use the sudo command. Git Push & Pull is where I will sync the code on GitHub and my laptop, but in order to do so I will have to make a commit. 
+In order to get Git, you have to install Git and signup for a GitHub account. The installation process for Windows Users and Mac Users is different, sometimes Mac Users will have to use the sudo command. Git Push & Pull is where I will sync the code on GitHub and my laptop, but in order to do so I will have to make a commit. 
 
 ### Markdown & Documentation
 
