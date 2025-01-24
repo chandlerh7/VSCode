@@ -7,4 +7,4 @@ What did you learn?
 ### Live Links
 
 [Internal Scripts](https://chandlerh7.github.io/VSCode/week-2/index.html)
-[External Scripts](https://chandlerh7.github.io/VSCode/week-2/week-2\pumpkinpatch.html)
+[External Scripts](https://chandlerh7.github.io/VSCode/week-2\pumpkinpatch.html)
