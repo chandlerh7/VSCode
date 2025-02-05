@@ -4,6 +4,6 @@ const eightormoreCharacters = "C";
 const containsEat = "E";
 ("Comment: I decided to use const because I did not have any intention to reassign or redeclare the variables.")
 
-console.error(startwithSpace, "(The password you created starts with a space)");
-console.error(containsEat, "(The password you created contains the word 'eat')");
-console.log(eightormoreCharacters, "(The password you created has eight or more characters)");
+console.log("If the password you created contains a space the message you will receive is", startwithSpace);
+console.log("If the password you created contains the word 'eat' the message you will receive is", containsEat);
+console.log("If the password you created contains eight or more characters the message you will is", eightormoreCharacters);
