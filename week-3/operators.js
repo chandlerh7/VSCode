@@ -54,6 +54,6 @@ console.log("My Age", myAge.toFixed(2));
 
 console.log("Next Birthday:", Math.ceil(myAge));
 
-console.log("My Favorite Nuumber:", Math.round( Math.random() * 100));
+console.log("My Favorite Number:", Math.round( Math.random() * 100));
 
 
