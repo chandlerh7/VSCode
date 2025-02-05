@@ -1,6 +1,7 @@
 let itemPrice = "P";
 let totalafterTax = "T";
 let discounttotalafterTax = "D";
+("Comment: I decided to use 'let' as my declaration word because I knew I would have to reassign the value of the variables.");
 
 let P = 40.99;
 let T = P * (1 + 0.07);
