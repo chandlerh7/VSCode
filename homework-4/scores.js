@@ -1,4 +1,4 @@
-const listofScores = [
+let listofScores = [
     "95",
     "72",
     "88",
@@ -19,11 +19,15 @@ console.log("pRef:", pRef);
 
 for (let i=0; i < listofScores.length; i++) {console.log("For Loop:", listofScores[i])}
 
-const listofScoresRef = document.querySelector ("chewy");
-let scores = [95, 72, 88, 45, 60, 79, 82, 91, 50, 38];
+ulRef.innerHTML = "<li> 95 </li>";
+ulRef.innerHTML = "<li> 72 </li>";
+ulRef.innerHTML = "<li> 88 </li>";
+ulRef.innerHTML = "<li> 45 </li>";
+ulRef.innerHTML = "<li> 60 </li>";
+ulRef.innerHTML = "<li> 79 </li>";
+ulRef.innerHTML = "<li> 82 </li>";
+ulRef.innerHTML = "<li> 91 </li>";
+ulRef.innerHTML = "<li> 50 </li>";
+ulRef.innerHTML = "<li> 38 </li>";
 
-for (let i = 0; i < scores.length; i++) { const scores = scores [i]; sumOfScores += scores;}
-
-listofScoresRef.innerHTML+= 
-"<h4>Avg: " + sumOfScores/ scores.length + "</h4>";
 
