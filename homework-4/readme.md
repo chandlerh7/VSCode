@@ -5,5 +5,5 @@ This week I learned a lot about DOM Manipulation, Arrays & Loops. In regards to 
 
 ### Live Links 
 [Home](https://chandlerh7.github.io/VSCode/homework-4/index.html)
-[Scores](https://chandlerh7.github.io/VSCode/homework-4\scores.html)
-[Gallery](https://chandlerh7.github.io/VSCode/homework-4\gallery.html)
+[Scores](https://chandlerh7.github.io/VSCode/homework-4/scores.html)
+[Gallery](https://chandlerh7.github.io/VSCode/homework-4/gallery.html)
