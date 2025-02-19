@@ -14,7 +14,7 @@ const liRef= document.querySelectorAll("li");
 console.log("liRef:", liRef);
 
 const ulRef = document.querySelector("ul");
-console.log("ul tetxContent", ulRef.textContent);
+console.log("ul textContent", ulRef.textContent);
 
 console.log("ul innerText", ulRef.innerText);
 
