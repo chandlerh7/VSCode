@@ -17,17 +17,30 @@ console.log("ul textContent", ulRef.textContent);
 const pRef = document.getElementById("chewy");
 console.log("pRef:", pRef);
 
-for (let i=0; i < listofScores.length; i++) {console.log("For Loop:", listofScores[i])}
+for (let i=0; i < listofScores.length; i++) {console.log("For Loop:", listofScores[i]); ulRef.innerHTML+= `<li> ${listofScores[i]} </li>`}
 
-ulRef.innerHTML = "<li> 95 </li>";
-ulRef.innerHTML = "<li> 72 </li>";
-ulRef.innerHTML = "<li> 88 </li>";
-ulRef.innerHTML = "<li> 45 </li>";
-ulRef.innerHTML = "<li> 60 </li>";
-ulRef.innerHTML = "<li> 79 </li>";
-ulRef.innerHTML = "<li> 82 </li>";
-ulRef.innerHTML = "<li> 91 </li>";
-ulRef.innerHTML = "<li> 50 </li>";
-ulRef.innerHTML = "<li> 38 </li>";
+// `${listofScors[i]}
+function avgScore() {
+    let total = 0;
+    for (let i = 0; i < listofScores.length; i++) {
+        total += listofScores[i];
+    }
+    let avg = total/listofScores.length;
+
+    pRef.innerHTML = `<p>${avg}</p>`;
+}
+
+avgScore();
+
+// ulRef.innerHTML += "<li> 95 </li>";
+// ulRef.innerHTML += "<li> 72 </li>";
+// ulRef.innerHTML += "<li> 88 </li>";
+// ulRef.innerHTML += "<li> 45 </li>";
+// ulRef.innerHTML += "<li> 60 </li>";
+// ulRef.innerHTML += "<li> 79 </li>";
+// ulRef.innerHTML += "<li> 82 </li>";
+// ulRef.innerHTML += "<li> 91 </li>";
+// ulRef.innerHTML += "<li> 50 </li>";
+// ulRef.innerHTML += "<li> 38 </li>";
 
 
