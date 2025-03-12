@@ -28,7 +28,10 @@ for (let i = 0; i < menuItems.length; i++){
 }
 
 for (let i = 0; i < cart.length; i++){
-    console.log(cart[i]);
+  const newTr = document.createElement("tr");
+  newTr.innerText = cart[i];
+
+  const newTd = document.createElement("data cell")
 }
 
  function addItemToCart(e) {
@@ -37,14 +40,9 @@ for (let i = 0; i < cart.length; i++){
  }
 
  function showCart() {
-    cartTableUlRef=""
-    if (cart.length === 0) {
-        noItemsUlRef.style.display = "block";
-      } else {
-        noItemsUlRef.style.display = "none";
-      }
-
-      for (let i = 0; i < cart.length; i++) {
+    cartTableUlRef="";
+   
+for (let i = 0; i < cart.length; i++) {
         cartTableUlRef.innerHTML += "<li>" + cart[i] + "</li>";
       }
  }

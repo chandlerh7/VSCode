@@ -1,3 +1,35 @@
 body{
-    background-color: burlywood;
+    background-color: blanchedalmond;
+}
+
+button {
+    color: hotpink;
+  background-color:cornsilk;
+  width: 18px;
+  height: 18px;
+  border-color: #74a993;
+  border-radius: 25%;
+}
+
+h1, h2 {
+  margin-top: 30px;
+  color: hotpink;
+  font-size: 29px ;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+li{
+  font-size: 17px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+p {
+  font-size: 17px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+table{
+  font-size: 17px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
 }
