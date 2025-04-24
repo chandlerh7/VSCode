@@ -25,4 +25,5 @@ For design choices regarding color I will use black, red, white, and yellow due 
 
 Data Structures:
 * Local storage for the pre recorded stories and art work, this data structure will be used in order to hold all of the content. 
-* Arrays for organizing the name of the stories, for example, const stories = ["Coyote Creates the World", "Coyote and His Tricks", "How the Coyote Helps"]
+* Arrays for organizing the name of the stories, for example, const stories = ["Coyote Creates the World", "Coyote and His Tricks", "How the Coyote Helps"].
+* API for playing the audio stories, load visuals (artwork), and sharing creations to social media. 
