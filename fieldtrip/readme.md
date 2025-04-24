@@ -6,9 +6,7 @@ Since I am focusing this project on the Coyote, the website will be allow users 
 
 ### Core Webpages
 * Page 1: Start Page (prompts the users to start)
-
 * Page 2: Listen and Learn (where the user can listen to Native American folktales about the Coyote and learn about Native American heritage)
-
 * Page 3: Create and Share (where the user can create their own folktales and artwork)
 
 ### Design Choices 
