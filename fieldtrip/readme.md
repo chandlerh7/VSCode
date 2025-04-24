@@ -16,3 +16,13 @@ This website will include many features such as:
 * Audio for storytelling
 * Drag and drop selection for creating artwork
 * Speech-to-text options for creating stories
+
+For design choices regarding color I will use black, red, white, and yellow due to them being very symbolic in Native American culture. 
+* Black represents mystery and death.
+* Red represents life, energy, blood, war, power, and sacrednes.
+* White represents purity, peace, and truth.
+* Yellow represents sunshine, happiness, and growth.
+
+Data Structures:
+* Local storage for the pre recorded stories and art work, this data structure will be used in order to hold all of the content. 
+* Arrays for organizing the name of the stories, for example, const stories = ["Coyote Creates the World", "Coyote and His Tricks", "How the Coyote Helps"]
